@@ -1,4 +1,4 @@
-# ai-news-aggregator1
+""# ai-news-aggregator1
 AI-powered news aggregation and summarization dashboard
 TYour content is correct — just Markdown formatting is broken (missing closing
 Here is the **fully corrected, clean, GitHub-ready version** 👇
@@ -7,7 +7,6 @@ Here is the **fully corrected, clean, GitHub-ready version** 👇
 
 # 📄 ✅ COPY THIS FINAL VERSION
 
-`
 markdown
 # ai-news-aggregator
 
