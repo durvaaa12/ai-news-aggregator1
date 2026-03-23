@@ -52,7 +52,9 @@ RSS Sources → Fetcher → Normalization → Deduplication → Database → API
 ### 🔹 Backend
 
 cd backend
+
 pip install -r requirements.txt
+
 uvicorn main:app --reload
 `
 Open: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
@@ -60,14 +62,15 @@ Open: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 ---
 
 ### 🔹 Frontend
-cd frontend->
+cd frontend
 
-npm install->
+npm install
 
 npm start
 
 Open: [http://localhost:3000](http://localhost:3000)
 
+RUN LOCALLY
 ---
 
 ### 🐳 Docker (Backend)
